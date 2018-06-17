@@ -1,0 +1,8 @@
+learn Git 
+this is a test file
+
+you can delete anything from this txt!!!
+
+and to testGit!
+
+system : windows;
