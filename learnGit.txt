@@ -5,4 +5,4 @@ you can delete anything from this txt!!!
 
 and to testGit!
 
-system : linux;
+system : MAC OS;
